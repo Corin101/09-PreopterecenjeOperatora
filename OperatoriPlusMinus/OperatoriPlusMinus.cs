@@ -59,7 +59,7 @@ namespace Vsite.CSharp
 
             // Naredba koja poziva binarni operator -
             //KompleksniBroj razlika = kb2 - kb1;
-            //Console.WriteLine("({0}) + ({1}) = {2}", kb1, kb2, razlika);
+            //Console.WriteLine("({0}) - ({1}) = {2}", kb2, kb1, razlika);
 
             // Naredba koja poziva unarni operator -
             //Console.WriteLine("-[({0}) + ({1})] = {2}", kb1, kb2, -(zbroj));
